@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.org/McCallTech/todo-react-redux.svg?branch=master)](https://travis-ci.org/mccalltech/todo-react-redux)
 
+[![Build Status](https://travis-ci.org/McCallTech/todo-react-redux.svg?branch=master)](https://travis-ci.org/McCallTech/todo-react-redux)
 
 # Todo app with React, Redux, and Firebase
 A simple Todo app example with `undelete` capability — built with React, Redux, and Firebase v3.
