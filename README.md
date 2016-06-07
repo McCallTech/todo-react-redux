@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/r-park/todo-react-redux.svg?branch=master)](https://travis-ci.org/r-park/todo-react-redux)
+[![Build Status](https://travis-ci.org/McCallTech/todo-react-redux.svg?branch=master)](https://travis-ci.org/r-park/todo-react-redux)
 
 
 # Todo app with React, Redux, and Firebase
